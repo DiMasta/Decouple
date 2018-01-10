@@ -1,0 +1,8 @@
+#ifndef __GLOBAL_CONSTANTS__
+#define __GLOBAL_CONSTANTS__
+
+#define NVRTC_FOR_TEXTURES
+#define NVCC_FOR_TEXTURES
+
+#endif // __GLOBAL_CONSTANTS__
+

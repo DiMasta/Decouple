@@ -44,6 +44,9 @@
     <ClInclude Include="textureUtils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="globalConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="checker.cu">

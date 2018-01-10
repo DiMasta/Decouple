@@ -143,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="checkerUtils.h" />
     <ClInclude Include="dirtUtils.h" />
+    <ClInclude Include="globalConstants.h" />
     <ClInclude Include="nvrtcProgram.h" />
     <ClInclude Include="processInstruction.h" />
     <ClInclude Include="rampUtils.h" />
